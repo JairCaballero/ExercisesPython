@@ -17,3 +17,5 @@ print(lista2)
 del(lista[-1])
 print(lista)
 
+#saber el mayor de una lista copn max(lista) o minimo con min(lista)
+
